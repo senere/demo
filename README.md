@@ -1,2 +1,3 @@
-# DEMO
-This is the test 3. 
+## Install required python packages
+# Run this command to install libraries.
+pip install -r requirements.txt
